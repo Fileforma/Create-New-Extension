@@ -1,6 +1,6 @@
 {
   "name": "create-new-extension",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A React framework for making Chrome and Visual Studio Code extensions",
   "main": "index.js",
   "bin": {
