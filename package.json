@@ -1,0 +1,23 @@
+{
+  "name": "create-new-extension",
+  "version": "1.0.0",
+  "description": "A React framework for making Chrome and Visual Studio Code extensions",
+  "main": "index.js",
+  "bin": {
+    "create-new-extension": "bin/installScript.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fileforma/Create-New-Extension.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Fileforma/Create-New-Extension/issues"
+  },
+  "homepage": "https://github.com/Fileforma/Create-New-Extension#readme"
+}
